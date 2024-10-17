@@ -1,0 +1,3 @@
+||schemas.android.com/apk/res-auto^
+||schemas.android.com/apk/res/android^
+||motpaks.com/v2/api/paks/^
